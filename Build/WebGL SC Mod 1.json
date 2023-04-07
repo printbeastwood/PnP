@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "PuzzleRoyale",
+"productVersion": "1.5.1",
+"dataUrl": "WebGL SC Mod 1.data.unityweb",
+"wasmCodeUrl": "WebGL SC Mod 1.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL SC Mod 1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.19f1"
+}
